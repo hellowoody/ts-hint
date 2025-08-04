@@ -1,0 +1,2 @@
+# ts-hint
+typescript hint
